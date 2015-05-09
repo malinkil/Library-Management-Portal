@@ -1,0 +1,6 @@
+edu.iit.sat.itmd4515.malinkil.fp.domain
+edu.iit.sat.itmd4515.malinkil.fp.manager
+edu.iit.sat.itmd4515.malinkil.fp.repository
+edu.iit.sat.itmd4515.malinkil.fp.repository.hibernate
+edu.iit.sat.itmd4515.malinkil.fp.service
+edu.iit.sat.itmd4515.malinkil.fp.web.controller

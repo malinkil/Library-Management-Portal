@@ -1,0 +1,115 @@
+#header
+{
+    font-family: "Times New Roman", Times, sans-serif; color:Black; font-size:250%;
+    background-color:#D6D6FF;
+    text-align:center;
+    padding:15px;
+}
+h1
+{
+    font-family: "Times New Roman", Times, sans-serif;
+    color:Black; font-size:300%;
+    padding:5px;
+}
+h2
+{
+    font-family: "Times New Roman", Times, sans-serif;
+    color:Black; font-size:200%;
+    padding:5px;
+}
+
+h3
+{
+    font-family: "Times New Roman", Times, sans-serif;
+    color:Black; font-size:200%;
+    padding:5px;
+}
+h4
+{
+    font-family:"Times New Roman", Times, sans-serif;
+    color:Black; font-size:100%;
+    padding:5px;
+}
+
+body
+{
+    background-color:#D6D6FF;
+}
+p
+{
+    font-family: "Times New Roman", Times, sans-serif;
+    olor:Black; font-size:50%;
+}
+.on {
+
+}
+.border{
+    margin: 20px;
+}
+table.gridtable {
+    font-family: Times New Roman,Times,sans-serif;
+    font-size:16px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #BCA9F5;
+    border-collapse: collapse;
+}
+table.gridtable th {
+    border-width: 2px;
+    padding: 20px;
+    border-style: solid;
+    border-color: #151515;
+    background-color: #CED8F6;
+}
+table.gridtable td {
+    border-width: 2px;
+    padding: 15px;
+    border-style: solid;
+    border-color: #151515;
+    background-color: #E6E6E6;
+}
+
+.subresult{
+    padding-top: 20px;
+}
+.home{
+    margin-right: 20px;
+}
+.MyBooks{
+    text-align: center;
+}
+.viewuser{
+    text-align: center;
+}
+
+.homeuser{
+    margin-right: 20px;
+}
+
+.sec{
+    margin-left: 2px ;
+    margin-bottom: 20px;
+}
+#fir{
+    margin-left: 59px;
+}
+
+#second{
+margin-left:50px;	
+}
+
+#searchbook{
+	margin-left:40px;
+}
+#mybook{
+	margin-left:40px;
+}
+.nav>li>a:hover, .nav>li>a:focus{
+	text-decoration: none;
+  background-color: rgb(25, 118, 146);
+  }
+  
+  
+#selection{
+	background-color:#A9BCF5;
+}
