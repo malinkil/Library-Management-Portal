@@ -32,6 +32,7 @@ public class LoginController {
 		session.setAttribute("currentUser", user);
 		
 		if(user == null || !user.getPassword().equals(password)){
+			System.out.println("Invalid username or password");
 			//return to login page
 		}
 			
